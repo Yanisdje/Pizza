@@ -1,3 +1,6 @@
+![image](https://github.com/Yanisdje/Pizza/assets/64096824/f69da5dc-6ed3-426b-b929-122cc1daabc7)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
